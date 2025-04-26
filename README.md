@@ -9,12 +9,18 @@ The quicksort function is called recursively on the low and high partitions unti
 Assuming the pivot always divides the array into equal partitions, the number of partition levels, L, is:  
 $`\log_{2}N = L`$
 
-## Complexity
+## Time Complexity
 ### Best Case
-O()  
-Ω()  
-Θ()  
+O(nlogn)  
+Ω(nlogn)  
+Θ(nlogn)  
 
 ### Average Case
+O(nlogn)  
+Ω(nlogn)  
+Θ(nlogn)  
 
 ### Worst Case
+O(n^2)  
+Ω(n^2)  
+Θ(n^2)  
