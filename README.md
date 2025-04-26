@@ -8,9 +8,9 @@ The quicksort function is called recursively on the low and high partitions unti
 
 ## Complexity
 ### Best Case
-O()
-Ω()
-Θ()
+O()  
+Ω()  
+Θ()  
 
 ### Average Case
 
